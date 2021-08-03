@@ -9,7 +9,7 @@
 - Add the below script in `public/index.html`
 
 ```
-<script src="https://public.tableau.com/javascripts/api/tableau-2.min.js" defer></script>
+<script src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
 ```
 
 - The browsers must be configured to allow third-party cookies to access the dashboard (It will raise a notification in the browser if it doesn't have the required permission)
